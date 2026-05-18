@@ -28,6 +28,7 @@ st.set_page_config(
 # STOCK DICTIONARY
 # ------------------------------------------------
 stocks = {
+
     "Apple (AAPL)": "AAPL",
     "Microsoft (MSFT)": "MSFT",
     "Google (GOOGL)": "GOOGL",
@@ -37,7 +38,20 @@ stocks = {
     "Tesla (TSLA)": "TSLA",
     "Netflix (NFLX)": "NFLX",
     "AMD (AMD)": "AMD",
-    "JPMorgan (JPM)": "JPM"
+    "JPMorgan Chase (JPM)": "JPM",
+
+    "Visa (V)": "V",
+    "Mastercard (MA)": "MA",
+    "Intel (INTC)": "INTC",
+    "Oracle (ORCL)": "ORCL",
+    "Coca-Cola (KO)": "KO",
+
+    "PepsiCo (PEP)": "PEP",
+    "Disney (DIS)": "DIS",
+    "Nike (NKE)": "NKE",
+    "Adobe (ADBE)": "ADBE",
+    "Salesforce (CRM)": "CRM"
+
 }
 
 # ------------------------------------------------
