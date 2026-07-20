@@ -1,7 +1,7 @@
 from newsapi import NewsApiClient
 
 # Replace with your NewsAPI key
-NEWS_API_KEY = "pub_7fe04441f269432f8228956b4e03eaba"
+NEWS_API_KEY = "839df120838b405da5b32bbb3f3db99f"
 
 newsapi = NewsApiClient(api_key=NEWS_API_KEY)
 

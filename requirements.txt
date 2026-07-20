@@ -8,3 +8,4 @@ newsapi-python
 textblob
 forex-python
 numpy
+
